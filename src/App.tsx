@@ -115,6 +115,9 @@ export default function App() {
           transition={{ duration: 0.8 }}
           className="relative z-10 max-w-4xl"
         >
+          <p className="text-zinc-400 text-xs md:text-sm mb-2 uppercase tracking-widest font-semibold">
+            Versão demo – modelo criado por Clauh
+          </p>
           <h1 className="font-display text-7xl md:text-9xl uppercase leading-none tracking-tighter text-shadow-strong">
             Bruto <span className="text-bruto-red">Hamburgueria</span>
           </h1>
